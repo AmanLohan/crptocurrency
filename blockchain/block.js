@@ -12,6 +12,7 @@ class Block{
          this.difficulty=difficulty;
     //
  }
+     //yeahhhhhhh
 static genesis()
 {
   return new Block(GENESIS_DATA);
